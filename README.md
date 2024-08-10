@@ -1,4 +1,4 @@
-#Portfolio Website
+##Portfolio Website
 This is a portfolio website created using HTML, Tailwind CSS and JavaScript. 
 Features:
 1. Light and dark mode
